@@ -1,0 +1,14 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.deps.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.runtimeconfig.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.runtimeconfig.dev.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\bin\Debug\netcoreapp3.1\Harjotus2.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.AssemblyInfoInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.AssemblyInfo.cs
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.genruntimeconfig.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Harjotus2\Harjotus2\obj\Debug\netcoreapp3.1\Harjotus2.csproj.AssemblyReference.cache

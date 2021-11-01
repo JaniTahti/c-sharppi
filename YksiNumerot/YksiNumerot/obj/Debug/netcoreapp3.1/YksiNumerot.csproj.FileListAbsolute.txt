@@ -1,0 +1,13 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.deps.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.runtimeconfig.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.runtimeconfig.dev.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\bin\Debug\netcoreapp3.1\YksiNumerot.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.AssemblyInfo.cs
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\YksiNumerot\YksiNumerot\obj\Debug\netcoreapp3.1\YksiNumerot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.deps.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.dev.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfoInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfo.cs
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.genruntimeconfig.cache

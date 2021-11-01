@@ -1,0 +1,14 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.AssemblyInfoInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.AssemblyInfo.cs
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.deps.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.runtimeconfig.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.runtimeconfig.dev.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\bin\Debug\netcoreapp3.1\BonusPTS.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.csproj.AssemblyReference.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\BonusPTS\BonusPTS\obj\Debug\netcoreapp3.1\BonusPTS.genruntimeconfig.cache

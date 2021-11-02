@@ -1,0 +1,14 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.deps.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.runtimeconfig.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.runtimeconfig.dev.json
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\bin\Debug\netcoreapp3.1\Fahrenheit.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.AssemblyInfo.cs
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.dll
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\Fahrenheit\Fahrenheit\obj\Debug\netcoreapp3.1\Fahrenheit.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\bin\Debug\TokaGraaf.exe.config
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\bin\Debug\TokaGraaf.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\bin\Debug\TokaGraaf.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.csproj.AssemblyReference.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.Form1.resources
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.Properties.Resources.resources
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.csproj.GenerateResource.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\TokaGraaf\TokaGraaf\obj\Debug\TokaGraaf.pdb

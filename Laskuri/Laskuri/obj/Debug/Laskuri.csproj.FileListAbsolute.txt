@@ -1,0 +1,10 @@
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\bin\Debug\Laskuri.exe.config
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\bin\Debug\Laskuri.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\bin\Debug\Laskuri.pdb
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.csproj.AssemblyReference.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.Form1.resources
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.Properties.Resources.resources
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.csproj.GenerateResource.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.exe
+C:\Users\Jani.tahti\source\repos\c-sharppi\Laskuri\Laskuri\obj\Debug\Laskuri.pdb

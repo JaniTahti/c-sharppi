@@ -1,0 +1,10 @@
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\bin\Debug\HotelNotTrivago.exe.config
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\bin\Debug\HotelNotTrivago.exe
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\bin\Debug\HotelNotTrivago.pdb
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.csproj.AssemblyReference.cache
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.Form1.resources
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.Properties.Resources.resources
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.csproj.GenerateResource.cache
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.csproj.CoreCompileInputs.cache
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.exe
+C:\Users\janit\source\repos\HotelNotTrivago\HotelNotTrivago\obj\Debug\HotelNotTrivago.pdb
